@@ -1,0 +1,39 @@
+.button-search{
+    color:rgb(67, 11, 139);
+    border: 2px solid rgb(67, 11, 139);
+    padding: 4px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.button-search:hover{
+    background-color: #f4f4f4;
+}
+
+.card-header{
+    font-size: 20px;
+}
+
+.form-container {
+    display: flex;
+}
+
+.datetime-input {
+    margin: 20px 20px 20px 0px;
+}
+
+.div-button-search{
+    margin-top: 15px;
+    margin-left: 32px;
+}
+
+.form-container{
+    padding-left:20px;
+}
+
+.notification{
+    font-size: 18px;
+    color:rgba(139, 0, 0, 0.897);
+    text-align: center;
+    margin-top: 20px;
+}
